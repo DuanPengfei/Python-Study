@@ -1,4 +1,4 @@
-py
+PythonStudy
 ==
 
-my python study process
+My python study process.
